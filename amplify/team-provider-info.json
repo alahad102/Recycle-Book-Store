@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify607731a6d9ae4-staging-54003-authRole",
+      "UnauthRoleArn": "arn:aws:iam::051679371362:role/amplify-amplify607731a6d9ae4-staging-54003-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::051679371362:role/amplify-amplify607731a6d9ae4-staging-54003-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify607731a6d9ae4-staging-54003-deployment",
+      "UnauthRoleName": "amplify-amplify607731a6d9ae4-staging-54003-unauthRole",
+      "StackName": "amplify-amplify607731a6d9ae4-staging-54003",
+      "StackId": "arn:aws:cloudformation:us-east-1:051679371362:stack/amplify-amplify607731a6d9ae4-staging-54003/fa5c8690-ccfe-11ec-a66d-0e62bae32ce5",
+      "AmplifyAppId": "d3hoisjbdddvhi"
+    },
+    "categories": {
+      "auth": {
+        "recyclebookstore44f9cb15": {}
+      }
+    }
+  }
+}
